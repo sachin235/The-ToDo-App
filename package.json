@@ -1,0 +1,18 @@
+{
+  "name": "the_to_do_app",
+  "version": "1.0.0",
+  "description": "This app is just a way to learn node",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Sachin Singla",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.2",
+    "mysql2": "^1.5.3",
+    "sequelize": "^4.37.3"
+  },
+  "devDependencies": {}
+}

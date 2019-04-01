@@ -1,0 +1,62 @@
+#add-goal-button{
+    background-color: darkcyan;
+    font-size: 30px;
+    border-radius: 10px;
+    color: white;
+}
+
+.topContainer > h1{
+margin-left:37%;
+}
+
+.topContainer > input{
+    margin-left:20%;
+    width:50%;
+}
+
+
+#input-goal{
+    font-size: 30px;
+    border-radius: 10px;
+}
+
+.ulContainer{
+    list-style: none;
+}
+
+.ulContainer > li{
+    margin-bottom: 10px;
+    font-size: 30px;
+    border-radius: 5px;
+    padding: 0.5em;
+    border: 2px solid white;
+    box-shadow: 2px 2px 2px 2px;
+}
+
+.buttonsContainer{
+    float:right;
+
+
+}
+
+.upButton{
+    font-size: 24px;
+    margin-right: 10px;
+    background-color: lightseagreen;
+    color:ghostwhite;
+}
+
+.downButton{
+    font-size: 24px;
+    margin-right: 10px;
+    background-color: blueviolet;
+    color:ghostwhite;
+}
+
+.removeButton{
+    font-size: 24px;
+    margin-right: 10px;
+    background-color: red;
+    color:ghostwhite;
+}
+
